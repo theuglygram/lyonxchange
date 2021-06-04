@@ -476,6 +476,7 @@ form.contact-form {
 }
 .form_ input {
   margin: 10px 0;
+  margin-left: 5px;
   outline: none;
   background-color: transparent !important;
   background: none !important;

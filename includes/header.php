@@ -18,10 +18,10 @@
                     <a class="nav-link" href="contact.php">Contact</a>
                 </li>
                 <li class="nav-item join">
-                    <a class="" href="register.php">Join</a>
+                    <a class="nav-link" href="register.php">Join</a>
                 </li>
                 <li class="nav-item login">
-                    <a class="" href="login.php">Login</a>
+                    <a class="nav-link" href="login.php">Login</a>
                 </li>
             </ul>
         </div>

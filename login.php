@@ -30,7 +30,7 @@
     <div class="login_container_wrapper">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6 d-none d-md-block">
                     <div class="img">
                         <img src="assets/landing/images/login.png" alt="" />
                     </div>
